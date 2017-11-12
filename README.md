@@ -16,7 +16,7 @@ Clone this repo and copy files to `~/`.
 ## ZSH
 
 ```bash
-    yaourt -S zsh oh-my-zsh-git
+    yaourt -S zsh oh-my-zsh-git powerline-fonts-git
 ```
 
 Set as default shell: https://wiki.archlinux.org/index.php/Command-line_shell#Changing_your_default_shell
@@ -28,6 +28,8 @@ Set as default shell: https://wiki.archlinux.org/index.php/Command-line_shell#Ch
 ```bash
     chsh -s full-path-to-shell
 ```
+
+If strange characters shows up, set locale: https://wiki.archlinux.org/index.php/Locale
 
 ## Vim
 
