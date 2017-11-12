@@ -19,6 +19,16 @@ Clone this repo and copy files to `~/`.
     yaourt -S zsh oh-my-zsh-git
 ```
 
+Set as default shell: https://wiki.archlinux.org/index.php/Command-line_shell#Changing_your_default_shell
+
+```bash
+    chsh -l
+```
+
+```bash
+    chsh -s full-path-to-shell
+```
+
 ## Vim
 
 Install [Vundle](https://github.com/VundleVim/Vundle.vim).
