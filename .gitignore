@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!README.md
+!LICENSE
+!.vimrc
+!.zshrc
+!.vscode
+!.bashrc
+
