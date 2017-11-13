@@ -6,6 +6,13 @@ My Arch Linux Configuration files for:
 * ZSH
 * Bash
 
+Clone this repo and copy files to `~/`.
+
+## Environment variables
+```
+    sudo ln -s ~/environment /etc/environment
+```
+
 ## ZSH
 
 ```bash
@@ -15,5 +22,6 @@ My Arch Linux Configuration files for:
 ## Vim
 
 ```bash
+    
 
 ```
