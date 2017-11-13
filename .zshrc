@@ -11,7 +11,6 @@ ZSH=/usr/share/oh-my-zsh/
 ZSH_THEME=random
 ZSH_THEME_RANDOM_CANDIDATES=(
   "amuse"
-  "avit"
   "bureau"
   "candy"
 )
