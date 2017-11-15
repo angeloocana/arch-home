@@ -34,6 +34,8 @@ Plugin 'pangloss/vim-javascript'
 Plugin 'mxw/vim-jsx'
 Plugin 'moll/vim-node'
 Plugin 'heavenshell/vim-jsdoc'
+Plugin 'leafgarland/typescript-vim'
+Plugin 'Quramy/tsuquyomi'
 
 " plugin from http://vim-scripts.org/vim/scripts.html
 " Plugin 'L9'
@@ -87,7 +89,7 @@ set tabstop=2       " The width of a TAB is set to 4.
 
 set shiftwidth=2    " Indents will have a width of 4
 
-set softtabstop=4   " Sets the number of columns for a TAB
+set softtabstop=2   " Sets the number of columns for a TAB
 
 set expandtab       " Expand TABs to spaces
 set autoindent
